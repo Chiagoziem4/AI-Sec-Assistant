@@ -1,0 +1,5 @@
+# masscan 1.0.5
+Discovered open port 80/tcp on 10.0.0.1
+Discovered open port 443/tcp on 10.0.0.1
+Discovered open port 22/tcp on 10.0.0.2
+Discovered open port 3389/tcp on 10.0.0.3
